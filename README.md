@@ -1,7 +1,7 @@
 # Modem and bootloader repository
 **for Samsung Galaxy M52 5G**
 
-To [download](https://github.com/BlackMesa123/proprietary_vendor_samsung_m52xq/releases) the correct binaries for your firmware, please refer to the following table by checking your current OMC sales code (ex. M526BR**OXM**1BVG4):
+To [download](https://github.com/nicodotgit/proprietary_vendor_samsung_m52xq/releases) the correct binaries for your firmware, please refer to the following table by checking your current OMC sales code (ex. M526BR**OXM**1BVG4):
 
 <img src="readme-res/omc-info.jpg" width="40%"/>
 
